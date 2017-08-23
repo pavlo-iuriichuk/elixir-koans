@@ -1,2 +1,2 @@
-%{"exfswatch": {:hex, :exfswatch, "0.4.1", "008db817f6096eec69d17c7ca562c572fb4409728a09f465dea7e31190fb983c", [:mix], []},
+%{"exfswatch": {:hex, :exfswatch, "0.4.1", "008db817f6096eec69d17c7ca562c572fb4409728a09f465dea7e31190fb983c", [:mix], [], "hexpm"},
   "fs": {:hex, :fs, "2.12.0", "ad631efacc9a5683c8eaa1b274e24fa64a1b8eb30747e9595b93bec7e492e25e", [:rebar3], []}}
